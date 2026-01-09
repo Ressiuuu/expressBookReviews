@@ -1,0 +1,1 @@
+{"message":"User student successfully registered. You can now login."}
